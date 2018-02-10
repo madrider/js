@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Note priority="urgent"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="schema1.xsd">
+	<to>abc@gmail.com</to>
+	<from>ghc@gmail.com</from>
+	<subject>Test mail</subject>
+	<message>
+	Hi, This is an Example of XMLSchema-instance
+	</message>
+	
+	
+</Note>

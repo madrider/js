@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Email xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="email.xsd"> 
+	
+		<to>abc@gmail.com</to>
+		<from>def@gmail.com</from>
+		<cc>ghi@gmail.com</cc>
+		<bcc>jkl@gmail.com</bcc>
+		<subject>Text Email</subject>
+		<Body>Hi, Hope you are doing good</Body>
+	
+</Email>

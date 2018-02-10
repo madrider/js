@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Employer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:schemaLocation="Employee.xsd">
+
+	<Employee>
+		<name>sai</name>
+		<age>21</age>
+		<LOT>.NET</LOT>
+	</Employee>
+
+
+</Employer>
